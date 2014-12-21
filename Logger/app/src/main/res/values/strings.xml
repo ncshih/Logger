@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Logger</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_workout">New Workout</string>
+    <string name="view_workouts">Workouts</string>
+    <string name="stringbtn1">New Workout</string>
+    <string name="stringbtn2">View Workouts</string>
+    <string name="title_activity_start_new_workout">StartNewWorkoutActivity</string>
+    <string name="btnstringone">1</string>
+    <string name="btnstringtwo">2</string>
+    <string name="btnstringthree">3</string>
+    <string name="btnstringfour">4</string>
+    <string name="btnstringfive">5</string>
+    <string name="btnstringsix">6</string>
+    <string name="btnstringseven">7</string>
+    <string name="btnstringeight">8</string>
+    <string name="btnstringnine">9</string>
+    <string name="btnstringzero">0</string>
+    <string name="btnstringat">\@</string>
+    <string name="btnstringtimes">x</string>
+
+</resources>
